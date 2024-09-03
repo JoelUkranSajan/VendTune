@@ -61,6 +61,8 @@ The frontend of the application is developed using HTML, JavaScript, and CSS. Th
 
 You can view a demonstration of the application on YouTube : https://www.youtube.com/watch?v=gg7fXJQP8OA.
 
+## Screenshots
+
 ![Web Application](VendTune_1.png "Web Application")
 ![Web Application](VendTune_2.png "Web Application")
 ![Web Application](VendTune_3.png "Web Application")
